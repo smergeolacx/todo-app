@@ -29,4 +29,23 @@ header{
 
 .task{
 	display: flex;
+	padding: 5px;
+}
+
+.text{
+	width: 300px;
+	height: 30px;
+}
+
+.actions{
+	padding-left: 5px;
+}
+
+.delete{
+	height: 30px;
+}
+
+section{
+	display: flex;
+	flex-direction: column;
 }
